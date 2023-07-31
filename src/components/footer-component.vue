@@ -12,10 +12,10 @@
         <div class="line"></div>
         <div>
             <div class="ul">
-               <a href="/about">About</a>
-               <a href="#skills">Tech Stack</a>
-               <a href="#projects">Projects</a>
-               <a href="/contact">contact</a>
+                <a><router-link to="/about">about</router-link></a>
+          <a><router-link to="/contact">contact</router-link></a>
+          <a href="#skills">Tech Stack</a>
+          <a href="#projects">Projects</a>
             </div>
         </div>
     </footer>

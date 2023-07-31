@@ -3,10 +3,10 @@
       <div class="navbar">
         <div class="logo"><router-link to="/"><img src="../assets/webp.webp"></router-link></div>
         <div class="ul">
-          <a href="/about">About</a>
+          <a class="stack"><router-link to="/about">about</router-link></a>
+          <a><router-link to="/contact">contact</router-link></a>
           <a class="stack" href="#skills">Tech Stack</a>
           <a class="proj" href="#projects">Projects</a>
-          <a href="/contact">contact</a>
         </div>
         <div class="icons">
           <a href="https://github.com/Kartopili43146865"><img src="../assets/icons/github.svg"></a>
