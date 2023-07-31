@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0,
+        "title": "Todo List App",
+        "img": "/projects/insta.png",
+        "desc": "Discover my sleek todo list app - an old project showcasing seamless task management. Created six months ago, it reflects my passion for productivity and web development",
+        "link1": "https://eclectic-croissant-cfcdff.netlify.app/",
+        "link2": "https://github.com/Kartopili43146865/todo-list",
+        "stack": "HTML,CSS,JavaScript,"
+    },
+    
+    {
+        "id": 1,
+        "title": "Kurochi",
+        "img": "/projects/kurochi-home.png",
+        "desc": "troducing our ambitious and thrilling anime site project! Our dedicated team has poured their hearts and expertise into creating a vast collection of free-to-watch animes. Although we are in the final stages, a few finishing touches remain. Get ready to immerse yourself in an extraordinary anime-watching experience soon! Stay tuned for the grand launch!",
+        "link1": "https://kurochi.netlify.app/",
+        "link2": "#",
+        "stack": "Vue,SASS,Nuxt"
+    }
+]
