@@ -1,6 +1,6 @@
 <template>
     <div class="item">
-    <img class="item-img" :src='data.img'>
+    <a :href="data.link1"><img class="item-img" :src='data.img'></a>
     <div class="item-text">
       <h1 class="element">{{data.title}}</h1>
     <p class="element desc">{{data.desc}}</p>
