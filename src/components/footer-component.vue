@@ -3,7 +3,7 @@
       <div class="info">
          <a href="#"><img class="logo" src="../assets/webp.webp"></a>
             <div class="info-links">
-                <p>shemwvarikartopili3@gmail.com</p>
+                <p>sabamikhelidze111@gmail.com</p>
                 <div class="icons">
                     <a href='https://github.com/Kartopili43146865'><img src="../assets/icons/github.svg"></a>
                 </div>
