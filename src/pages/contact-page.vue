@@ -3,7 +3,7 @@
       <div class="navbar">
         <div class="logo"><router-link to="/"><img src="../assets/webp.webp"></router-link></div>
         <div class="ul">
-          <a><router-link to="/home">Home</router-link></a>
+          <a><router-link to="/">Home</router-link></a>
           <a class="stack"><router-link to="/about">about</router-link></a>
           <a><router-link to="/contact">contact</router-link></a>
         </div>
@@ -30,7 +30,7 @@
         <div class="line"></div>
         <div>
             <div class="ul ul2">
-              <a><router-link to="/home">Home</router-link></a>
+              <a><router-link to="/">Home</router-link></a>
           <a><router-link to="/about">about</router-link></a>
           <a><router-link to="/contact">contact</router-link></a>
             </div>
