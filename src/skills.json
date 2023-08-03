@@ -20,6 +20,11 @@
         "img": "/skills/icons8-vue-js.svg",
         "time": "3 month"
     },
+    {
+        "title": "React",
+        "img": "/skills/react.svg",
+        "time": "1 week"
+    },
      {
         
         "title": "github",
