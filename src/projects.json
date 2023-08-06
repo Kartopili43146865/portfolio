@@ -1,6 +1,15 @@
 [
     {
         "id": 0,
+        "title": "weather",
+        "img": "/projects/weather.png",
+        "desc": "🌦️ Tbilisi Weather Forecast 🏞️ Stay ahead of the weather in Tbilisi, Georgia, with our React Weather Website. Get real-time updates on temperature, humidity, wind speed, max and min temperatures, and sunrise times for the next six days. Beautifully designed and responsive, this app helps you plan your activities with precision. Explore the live demo and experience accurate weather forecasts in Tbilisi.Let's embrace the elements and make the most of our time in Tbilisi! ☀️🌧️❄️",
+        "link1": "https://tbilisi-weather-saba.netlify.app/",
+        "link2": "https://github.com/Kartopili43146865/weather",
+        "stack": "React"
+    },
+    {
+        "id": 1,
         "title": "Todo List App",
         "img": "/projects/todo.png",
         "desc": "Discover my sleek todo list app - an old project showcasing seamless task management. Created six months ago, it reflects my passion for productivity and web development",
@@ -10,7 +19,7 @@
     },
     
     {
-        "id": 1,
+        "id": 2,
         "title": "Kurochi",
         "img": "/projects/kurochi-home.png",
         "desc": "troducing our ambitious and thrilling anime site project! Our dedicated team has poured their hearts and expertise into creating a vast collection of free-to-watch animes. Although we are in the final stages, a few finishing touches remain. Get ready to immerse yourself in an extraordinary anime-watching experience soon! Stay tuned for the grand launch!",
