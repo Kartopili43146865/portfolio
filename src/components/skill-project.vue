@@ -1,6 +1,6 @@
 <template>
     <div class="skill">
-          <img :src="data.img">
+          <img class="imgg" :src="data.img">
           <h2>{{data.title}}</h2>
           <p>{{data.time}} of experience</p>
     </div>
@@ -38,5 +38,10 @@
 .skill p {
  color:#A7A7A7;
  margin-top: 10px;
+}
+@media(min-width: 400px){
+    .imgg {
+        max-width: 50%;
+    }
 }
 </style>

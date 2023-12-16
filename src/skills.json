@@ -50,5 +50,15 @@
         "title": "linux",
         "img": "/skills/icons8-linux-96.png",
         "time": "3 years"
+    },
+    {
+        "title": "python",
+        "img": "https://imgs.search.brave.com/8-8oAD6jzHKqO6WTV6XaQ1AJZO_DITrF0uoAVo5dlfo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zMy5k/dWFsc3RhY2sudXMt/ZWFzdC0yLmFtYXpv/bmF3cy5jb20vcHl0/aG9uZG90b3JnLWFz/c2V0cy9tZWRpYS9j/b21tdW5pdHkvbG9n/b3MvcHl0aG9uLWxv/Z28tb25seS5wbmc",
+        "time": "3 month"
+    },
+    {
+        "title": "flask",
+        "img": "https://imgs.search.brave.com/1Y1-zOjFuiRI2FeXfkEN0bgAjugHByv9-CrXmW0x0DE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/Zmxhc2suc3Zn.svg",
+        "time": "1 month"
     }
 ]
