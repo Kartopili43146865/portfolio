@@ -20,7 +20,7 @@ props: {
 }
 } 
 </script>
-<style scoped>
+<style scoped lang="scss">
   .item { 
     width: 260px;
     padding-bottom: 20px;
@@ -30,13 +30,19 @@ props: {
     align-items: start;
     border-radius: 20px;
     overflow: hidden;
-    background: radial-gradient(
-      circle at bottom center,
-      #535353d5 -500px,
-      #3b3b3bcb
-    ) ;
+    background: none;
     border: 1px solid rgba(255, 255, 255, 0.137);
     box-shadow: 0 0 15px 2px rgb(27, 27, 27);
+    transition: 0.2s;
+    cursor: pointer;
+  }
+  .item:hover {
+    background-color: white;
+    transform: scale(1.1);
+    
+  }
+  .item:hover * {
+      color: black;
   }
   .item h1 {
     color: white;
@@ -70,6 +76,9 @@ props: {
     width: 96%;
     display: flex;
     justify-content: space-between;
+    background-color: black;
+    padding: 2px;
+    border-radius: 5px;
   }
   .item-text .links div {
     display: flex;
