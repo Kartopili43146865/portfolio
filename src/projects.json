@@ -7,17 +7,7 @@
         "link1": "https://tbilisi-weather-saba.netlify.app/",
         "link2": "https://github.com/Kartopili43146865/weather",
         "stack": "React"
-    },
-    {
-        "id": 1,
-        "title": "Todo List App",
-        "img": "/projects/todo.png",
-        "desc": "Discover my sleek todo list app - an old project showcasing seamless task management. Created six months ago, it reflects my passion for productivity and web development",
-        "link1": "https://eclectic-croissant-cfcdff.netlify.app/",
-        "link2": "https://github.com/Kartopili43146865/todo-list",
-        "stack": "HTML,CSS,JavaScript,"
-    },
-    
+    },  
     {
         "id": 2,
         "title": "Kurochi",
@@ -26,5 +16,14 @@
         "link1": "https://kurochi.netlify.app/",
         "link2": "#",
         "stack": "Vue,SASS,Nuxt"
+    },
+    {
+        "id": 3,
+        "title": "MeowMeow: Connect with Cat Lovers",
+        "img": "/projects/meowmeow.png",
+        "desc": "MeowMeow is a social network exclusively for cat enthusiasts. Share photos, stories, and tips with fellow cat lovers. Celebrate your love for cats on MeowMeow!",
+        "link1": "https://meowmeowww.onrender.com/",
+        "link2": "#",
+        "stack": "Html,Css,Python,Flask"
     }
 ]
