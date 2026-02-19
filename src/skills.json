@@ -1,35 +1,40 @@
 [
     {
+        "title": "assembly",
+        "img": "/skills/icons8-assembly-96.png",
+        "time": "1 years"
+    },
+    {
         
         "title": "HTML",
         "img": "/skills/html5.svg",
-        "time": "3 years"
+        "time": "4 years"
     },
     {
         "title": "css",
         "img": "/skills/css.svg",
-        "time": "3 years"
+        "time": "4 years"
     },
     {
         "title": "javaScript",
         "img": "/skills/javaScript.svg",
-        "time": "1 years"
+        "time": "1 year"
     },
     {
         "title": "Vue",
         "img": "/skills/icons8-vue-js.svg",
-        "time": "3 month"
+        "time": "9 month"
     },
     {
         "title": "React",
         "img": "/skills/react.svg",
-        "time": "2 week"
+        "time": "5 month"
     },
      {
         
         "title": "github",
         "img": "/skills/akar-icons_github-fill.svg",
-        "time": "2 years"
+        "time": "3 years"
     },
     {
         "title": "git",
@@ -38,27 +43,22 @@
     },
     {
         "title": "python",
-        "img": "https://imgs.search.brave.com/8-8oAD6jzHKqO6WTV6XaQ1AJZO_DITrF0uoAVo5dlfo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zMy5k/dWFsc3RhY2sudXMt/ZWFzdC0yLmFtYXpv/bmF3cy5jb20vcHl0/aG9uZG90b3JnLWFz/c2V0cy9tZWRpYS9j/b21tdW5pdHkvbG9n/b3MvcHl0aG9uLWxv/Z28tb25seS5wbmc",
-        "time": "3 month"
+        "img": "skills/python-svgrepo-com.svg",
+        "time": "2 year"
     },
     {
         "title": "SASS",
         "img": "/skills/logos_sass.svg",
-        "time": "1 years"
+        "time": "1 year"
     },
     {
         "title": "tailwindcss",
         "img": "/skills/vscode-icons_file-type-tailwind.svg",
-        "time": "1 month"
+        "time": "1 year"
     },
     {
         "title": "linux",
-        "img": "/skills/icons8-linux-96.png",
-        "time": "3 years"
-    },
-    {
-        "title": "flask",
-        "img": "https://imgs.search.brave.com/1Y1-zOjFuiRI2FeXfkEN0bgAjugHByv9-CrXmW0x0DE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/Zmxhc2suc3Zn.svg",
-        "time": "1 month"
+        "img": "/skills/linux-svgrepo-com.svg",
+        "time": "4 years"
     }
 ]

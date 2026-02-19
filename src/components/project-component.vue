@@ -1,13 +1,13 @@
 <template>
     <div class="item">
-    <a :href="data.link1"><img class="item-img" :src='data.img'></a>
+    <a :href="data.link1" target="_blank"><img class="item-img" :src='data.img'></a>
     <div class="item-text">
       <h1 class="element">{{data.title}}</h1>
     <p class="element desc">{{data.desc}}</p>
     <h3 class="element">Tech stack: <span>{{ data.stack }}</span></h3>
     <div class="element links">
-      <div><img src="../assets/icons/preview.svg"> <a :href="data.link1">Live Preview</a></div>
-      <div><img src="../assets/icons/github.svg"> <a :href="data.link2">view code</a></div>
+      <div><a :href="data.link1" target="_blank"><img src="../assets/icons/preview.svg"> Live Preview</a></div>
+      <div><a :href="data.link2" target="_blank"><img src="../assets/icons/github.svg"> view code</a></div>
     </div>
     </div>
     
@@ -22,7 +22,7 @@ props: {
 </script>
 <style scoped lang="scss">
   .item { 
-    width: 260px;
+    width: 300px;
     padding-bottom: 20px;
     display: flex;
     flex-direction: column;
@@ -37,19 +37,18 @@ props: {
     cursor: pointer;
   }
   .item:hover {
-    background-color: white;
+    background-color: black;
     transform: scale(1.1);
     
   }
   .item:hover * {
-      color: black;
+      color: white;
   }
   .item h1 {
     color: white;
   }
   .item-img {
     width: 100%;
-    max-height: 170px;
   }
   .item-text {
     width: 96%;
@@ -76,8 +75,7 @@ props: {
     width: 96%;
     display: flex;
     justify-content: space-between;
-    background-color: black;
-    padding: 2px;
+    
     border-radius: 5px;
   }
   .item-text .links div {

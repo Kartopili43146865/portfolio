@@ -9,7 +9,7 @@
           <a class="proj" href="#projects">Projects</a>
         </div>
         <div class="icons">
-          <a href="https://github.com/Kartopili43146865"><img src="../assets/icons/github.svg"></a>
+          <a href="https://github.com/Kartopili43146865" target="_blank"><img src="../assets/icons/github.svg"></a>
           </div>
       </div>
     </div>

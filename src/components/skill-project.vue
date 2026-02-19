@@ -30,7 +30,7 @@
     pointer-events: none;
   }
 .skill img {
-  width: 90%;
+    width: 150px;
     height: 150px;
     margin-left: 50%;
     transform: translate(-50%, -15px);
@@ -39,9 +39,10 @@
  color:#A7A7A7;
  margin-top: 10px;
 }
-@media(min-width: 400px){
+@media(max-width: 400px){
     .imgg {
-        max-width: 50%;
+        max-width: 100px;
+        max-height: 100px;
     }
 }
 </style>

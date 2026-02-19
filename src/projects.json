@@ -13,7 +13,7 @@
         "title": "Kurochi",
         "img": "/projects/kurochi-home.png",
         "desc": "troducing our ambitious and thrilling anime site project! Our dedicated team has poured their hearts and expertise into creating a vast collection of free-to-watch animes. Although we are in the final stages, a few finishing touches remain. Get ready to immerse yourself in an extraordinary anime-watching experience soon! Stay tuned for the grand launch!",
-        "link1": "https://kurochi.netlify.app/",
+        "link1": "https://kurochi.ge/",
         "link2": "#",
         "stack": "Vue,SASS,Nuxt"
     },
@@ -24,6 +24,15 @@
         "desc": "MeowMeow is a social network exclusively for cat enthusiasts. Share photos, stories, and tips with fellow cat lovers. Celebrate your love for cats on MeowMeow!",
         "link1": "https://meowmeowww.onrender.com/",
         "link2": "#",
+        "stack": "Html,Css,Python,Flask"
+    },
+    {
+        "id": 4,
+        "title": "simple game",
+        "img": "/projects/meowmeow.png",
+        "desc": "MeowMeow is a social network exclusively for cat enthusiasts. Share photos, stories, and tips with fellow cat lovers. Celebrate your love for cats on MeowMeow!",
+        "link1": "https://hungry-jortsoft1.netlify.app/",
+        "link2": "https://github.com/Kartopili43146865/jortsoft-gamejam111",
         "stack": "Html,Css,Python,Flask"
     }
 ]
