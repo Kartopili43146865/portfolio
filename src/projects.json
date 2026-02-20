@@ -1,6 +1,15 @@
 [
     {
         "id": 0,
+        "title": "Food Catcher",
+        "img": "/projects/meowmeow.png",
+        "desc": "A browser-based arcade game where food rises from the bottom of the screen and players must catch and consume it to earn points and upgrade their character. The game features increasing difficulty and locally saved progress, allowing players to improve over time without requiring a backend.",
+        "link1": "https://hungry-jortsoft1.netlify.app/",
+        "link2": "https://github.com/Kartopili43146865/jortsoft-gamejam111",
+        "stack": "javasccript"
+    },
+    {
+        "id": 1,
         "title": "weather",
         "img": "/projects/weather.png",
         "desc": "🌦️ Tbilisi Weather Forecast 🏞️ Stay ahead of the weather in Tbilisi, Georgia, with our React Weather Website. Get real-time updates on temperature, humidity, wind speed, max and min temperatures, and sunrise times for the next six days. Beautifully designed and responsive, this app helps you plan your activities with precision. Explore the live demo and experience accurate weather forecasts in Tbilisi.Let's embrace the elements and make the most of our time in Tbilisi! ☀️🌧️❄️",
@@ -15,24 +24,15 @@
         "desc": "troducing our ambitious and thrilling anime site project! Our dedicated team has poured their hearts and expertise into creating a vast collection of free-to-watch animes. Although we are in the final stages, a few finishing touches remain. Get ready to immerse yourself in an extraordinary anime-watching experience soon! Stay tuned for the grand launch!",
         "link1": "https://kurochi.ge/",
         "link2": "#",
-        "stack": "Vue,SASS,Nuxt"
+        "stack": "Vue, SASS, Nuxt"
     },
     {
         "id": 3,
-        "title": "MeowMeow: Connect with Cat Lovers",
+        "title": "MeowMeow",
         "img": "/projects/meowmeow.png",
         "desc": "MeowMeow is a social network exclusively for cat enthusiasts. Share photos, stories, and tips with fellow cat lovers. Celebrate your love for cats on MeowMeow!",
         "link1": "https://meowmeowww.onrender.com/",
         "link2": "#",
-        "stack": "Html,Css,Python,Flask"
-    },
-    {
-        "id": 4,
-        "title": "simple game",
-        "img": "/projects/meowmeow.png",
-        "desc": "MeowMeow is a social network exclusively for cat enthusiasts. Share photos, stories, and tips with fellow cat lovers. Celebrate your love for cats on MeowMeow!",
-        "link1": "https://hungry-jortsoft1.netlify.app/",
-        "link2": "https://github.com/Kartopili43146865/jortsoft-gamejam111",
-        "stack": "Html,Css,Python,Flask"
+        "stack": "Html, Css, Python, Flask"
     }
 ]

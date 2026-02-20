@@ -43,7 +43,12 @@
     },
     {
         "title": "python",
-        "img": "skills/python-svgrepo-com.svg",
+        "img": "/skills/python-svgrepo-com.svg",
+        "time": "2 year"
+    },
+    {
+        "title": "flask",
+        "img": "/skills/icons8-flask-96.png",
         "time": "2 year"
     },
     {

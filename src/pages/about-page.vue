@@ -15,33 +15,25 @@
     </div>
     <div class="parent">
         <div class="div welcome">
-            <h1>Welcome to My Frontend Portfolio!</h1>
+            <h1>Welcome to My Portfolio!</h1>
             <p>
-                Hello there! I'm saba mikhelidze, a passionate and ambitious Frontend Developer with a strong foundation in HTML, CSS, and JavaScript. I specialize in creating interactive and user-friendly web experiences, and I have a keen eye for design details that elevate the overall aesthetics of a website.
+                I’m a passionate developer with experience in frontend development, low-level programming with Assembly, and backend development using Flask. I enjoy building interactive web applications and games, and I’m constantly exploring new technologies to expand my skill set.
+                I focus on writing clean, efficient code and understanding how systems work both at a high level and close to the hardware. I’m always learning and challenging myself with new projects.
             </p>
         </div>
         <div class="div animation" ref="myElement5" :id="scrolled5 ? 'skills-scrolled' : null">
-            <h1>Skills:</h1>
-            <ul>
-                <li><span>HTML:</span> I possess a deep understanding of semantic HTML markup, ensuring the structure and accessibility of web pages are optimized for both users and search engines.</li>
-                <li><span>CSS:</span> My proficiency in CSS allows me to craft stunning and responsive layouts, making sure that every website I build looks great on all devices.</li>
-                <li><span>JavaScript:</span> I have a solid grasp of JavaScript and its modern frameworks, which enables me to develop dynamic and interactive features that enhance user engagement and overall website functionality.</li>
-                <li><span>Vue.js:</span> As a Vue.js enthusiast, I leverage this powerful framework to build scalable and maintainable single-page applications with ease.</li>
-                <li><span>Sass:</span> Utilizing Sass, I streamline my CSS workflow, keeping stylesheets organized and maintaining code readability.</li>
-                <li><span>Tailwind CSS:</span> I am well-versed in using Tailwind CSS to expedite the development process by employing pre-built utility classes without compromising on design flexibility.</li>
-            </ul>
         </div>
         <div class="div animation" ref="myElement2" :id="scrolled2 ? 'skills-scrolled' : null">
             <h1>Experience:</h1>
-            <p>I have had the opportunity to work in a real-world environment, contributing my skills and expertise to a professional team. During this experience, which spanned over 2 weeks, I collaborated with fellow developers and designers to bring client projects to life. This valuable exposure has further honed my ability to work in a team, adapt to project requirements, and deliver high-quality results within tight deadlines.</p>
+            <p>I have worked on multiple personal and collaborative projects, focusing on building complete applications from frontend to backend. Through these projects, I developed strong problem-solving skills, improved my understanding of system architecture, and gained experience working with real-world development workflows.</p>
         </div>
         <div class="div animation" ref="myElement" :id="scrolled ? 'skills-scrolled' : null">
             <h1>Passion and Vision:</h1>
-            <p>My passion for frontend development goes beyond just writing code. I am dedicated to staying up-to-date with the latest industry trends and best practices. This commitment allows me to create cutting-edge websites that not only meet the needs of today but are also prepared for the challenges of tomorrow.</p>
+            <p>My interest in programming goes beyond a single area of development. From building interactive frontend interfaces to working with backend systems using Flask and exploring low-level programming with Assembly, I enjoy understanding how software works at every layer. I am committed to continuously learning and improving, staying current with modern technologies while deepening my understanding of core computer science concepts.</p>
         </div>
         <div class="div animation" ref="myElement3" :id="scrolled3 ? 'skills-scrolled' : null">
             <h1>Projects:</h1>
-            <p>In my portfolio, you will find a collection of projects that showcase my skills and creativity. From simple landing pages to complex web applications, each project represents a unique challenge I embraced with enthusiasm and determination.</p>
+            <p>My portfolio includes a range of projects, from interactive browser games and dynamic web applications to full-stack systems. Each project reflects my focus on clean architecture, problem-solving, and performance-aware development.</p>
         </div>
         <div class="div animation" ref="myElement4" :id="scrolled4 ? 'skills-scrolled' : null">
             <h1>Get in Touch:</h1>

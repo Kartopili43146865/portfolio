@@ -257,10 +257,10 @@
   }
   .items {
     display: grid;
-    width: 96%;
+    width: 100%;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     place-items: center;
-    margin-left: 2%;
+    margin-left: 0;
     gap: 50px;
     margin-top: 50px;
   }

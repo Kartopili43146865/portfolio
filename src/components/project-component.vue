@@ -22,7 +22,8 @@ props: {
 </script>
 <style scoped lang="scss">
   .item { 
-    width: 300px;
+    width: 80%;
+    max-width: 300px;
     padding-bottom: 20px;
     display: flex;
     flex-direction: column;
