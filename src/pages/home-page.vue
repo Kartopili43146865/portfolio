@@ -2,7 +2,7 @@
   <div>
     <menucom />
     <div class="main">
-      <h1>Hi, <br>My name is <br> <span>saba mikhelidze</span> <br>I build things for web</h1>
+      <h1>Hi, <br>My name is <br> <span>saba mikhelidze</span> <br>I build things with code</h1>
       <div class="image"><img src="../assets/webp.webp"></div>
     </div>
   
@@ -13,7 +13,7 @@
         <p>Technologies i've been working with recently</p>
       </div>
       <div class="s">
-      <img class="ss prev" src="../assets/icons/next.png" @click="next(1)">
+      <img class="ss prev" src="../assets/icons/next.png" alt="Unselectable image" @click="next(1)">
       <div 
       class="skills"
       @mousedown="down"
@@ -28,7 +28,7 @@
         </div>
         
       </div>
-      <img class="ss next" src="../assets/icons/next.png" @click="next(-1)">
+      <img class="ss next" src="../assets/icons/next.png" alt="Unselectable image" @click="next(-1)">
      </div>
     </div> 
     <div class="projects" id="projects">
@@ -275,6 +275,10 @@
     transform: translateY(300px);
     overflow: hidden;
     transition: 0.7s;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;  
+    -ms-user-select: none;   
   }
   #skills-scrolled {
     transform: translateY(0px);
@@ -292,6 +296,10 @@
     height: 25px;
     cursor: pointer;
     border-radius: 50%;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;  
+    -ms-user-select: none;     
   }
   .prev {
     rotate: 180deg;
